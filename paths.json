@@ -5,6 +5,6 @@
     "/content/adapt2/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/adapt2/"
   ]
 }
